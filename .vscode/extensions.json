@@ -1,0 +1,8 @@
+{
+	"recommendations": [
+		"visualstudioexptteam.vscodeintellicode",
+		"editorconfig.editorconfig",
+		"mikestead.dotenv",
+		"DanielGavin.ols"
+	]
+}

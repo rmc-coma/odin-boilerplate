@@ -1,0 +1,4 @@
+{
+  "ols.server.path": "./.ols/ols",
+  "ols.updates.askBeforeDownload": true
+}
